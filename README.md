@@ -25,7 +25,6 @@
 
 🌟 Roadmap
 
-•	Real-time notifications
 •	Advanced privacy controls
 •	Enhanced media editing features
 •	Mobile app support
