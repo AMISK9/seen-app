@@ -1,3 +1,5 @@
+Deployed on Vercel here: https://seen-app-three.vercel.app/
+
 # Seen.
 
 **Seen.** is a modern social media designed to connect people with ease. Everybody wants to be seen.
